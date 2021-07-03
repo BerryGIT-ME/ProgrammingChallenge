@@ -1,0 +1,13 @@
+ The solution requires a dictionary of english words. They are stored in the accompanying words_dictionary.json 
+ file provided in the folder
+
+ fiddle link: https://jsfiddle.net/ike_okerenwogba/9oyugxcb/8/
+ 
+ format:
+ [test case] [result] 
+ 
+ [“S>P”,”P>A”,”A>I”,”I>N”], [SPAIN]
+
+ [“E>N”, “P>E”], [PEN]
+
+  [“M>P”,”L>A”,”A>M”], [LAMP]
